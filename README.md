@@ -6,7 +6,7 @@ You need to use given repo to create your music list. All exercises and detailed
 
 You have to use PHP dictionary `$_GET["playlist"]` to read the value of  `playlist` parameter passed in your URL query string like `http://localhost/musiclist/music.php?playlist=myfavorite.txt`.
 
-### Student Details
+## Student Details
 
 - **Student ID**: your studentID
 - **Student Name**: your name
